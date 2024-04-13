@@ -19,5 +19,13 @@ Represents the percentage of CPU (Central Processing Unit) capacity utilized by 
 Refers to the number of concurrent execution units within a process. In this code, it indicates the number of threads used for performing matrix multiplication in parallel. Increasing the number of threads can potentially improve performance by utilizing multiple CPU cores concurrently.
 
 ## CPU usage Graph
+<img width="677" alt="cpu" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/dad11fae-e123-4629-9160-57522d8b4e48">
+
+## CPU usage table
+<img width="320" alt="cputable" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/748a2b8d-1868-4f61-8109-86db67d2c291">
+
 ## Time VS Threads
+<img width="615" alt="time_thread" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/024383b7-135a-4ff5-ac4b-47feeafbdc56">
+
 ## Resultant Table
+<img width="439" alt="rtable" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/919c190b-84af-4aee-b923-09cba59020b5">
