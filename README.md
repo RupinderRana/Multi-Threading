@@ -18,14 +18,15 @@ Represents the percentage of CPU (Central Processing Unit) capacity utilized by 
 ## Number of Threads: 
 Refers to the number of concurrent execution units within a process. In this code, it indicates the number of threads used for performing matrix multiplication in parallel. Increasing the number of threads can potentially improve performance by utilizing multiple CPU cores concurrently.
 
-## CPU usage Graph
-<img width="677" alt="cpu" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/dad11fae-e123-4629-9160-57522d8b4e48">
+## CPU usage 
+<img width="685" alt="cpu_bar" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/643daee4-b8b0-4c0b-a95c-ae4cfefa13bf">
 
 ## CPU usage table
-<img width="320" alt="cputable" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/748a2b8d-1868-4f61-8109-86db67d2c291">
+<img width="512" alt="cpu_usage" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/e90ee8ee-dc41-4b18-88bd-88d187889c98">
 
 ## Time VS Threads
-<img width="615" alt="time_thread" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/024383b7-135a-4ff5-ac4b-47feeafbdc56">
+<img width="649" alt="time_graph" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/2750c6e7-d4b4-46fb-aa28-b22a98b03109">
 
 ## Resultant Table
-<img width="439" alt="rtable" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/919c190b-84af-4aee-b923-09cba59020b5">
+<img width="450" alt="res_table" src="https://github.com/RupinderRana/Multi-Threading/assets/98392235/1e39d93a-2e7f-40cb-891c-921d2be03e1e">
+
