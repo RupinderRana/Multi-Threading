@@ -1,6 +1,6 @@
 # Multi-Threading
 ## Overview
-This Python script benchmarks the performance of matrix multiplication using multi-threading. It generates 100 random matrices of size 1000x1000 and multiplies each of them with a constant matrix of the same size. The performance is measured for different numbers of threads ranging from 1 to 8.
+This Python script benchmarks the performance of matrix multiplication using multi-threading. It generates 100 random matrices of size 5000x5000 and multiplies each of them with a constant matrix of the same size. The performance is measured for different numbers of threads ranging from 1 to 8.
 
 ## Prerequisites
 1. Python 3.x
